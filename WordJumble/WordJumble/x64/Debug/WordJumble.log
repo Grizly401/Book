@@ -1,0 +1,3 @@
+﻿  WordJumble.cpp
+D:\GitUnreal\GameJam\Book\WordJumble\WordJumble\WordJumble.cpp(26,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  WordJumble.vcxproj -> D:\GitUnreal\GameJam\Book\WordJumble\x64\Debug\WordJumble.exe

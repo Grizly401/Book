@@ -1,0 +1,4 @@
+﻿  Tic-Tac-Toe.cpp
+D:\GitUnreal\GameJam\Book\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe.cpp(176,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitUnreal\GameJam\Book\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe.cpp(181,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Tic-Tac-Toe.vcxproj -> D:\GitUnreal\GameJam\Book\Tic-Tac-Toe\x64\Debug\Tic-Tac-Toe.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitUnreal\\GameJam\\Book\\WordJumble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30995A5-AE75-4427-AF2B-6E13AACB3CBF}|WordJumble\\WordJumble.vcxproj|D:\\GitUnreal\\GameJam\\Book\\WordJumble\\WordJumble\\WordJumble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F30995A5-AE75-4427-AF2B-6E13AACB3CBF}|WordJumble\\WordJumble.vcxproj|solutionrelative:WordJumble\\WordJumble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordJumble.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Book\\WordJumble\\WordJumble\\WordJumble.cpp",
+              "RelativeDocumentMoniker": "WordJumble\\WordJumble.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Book\\WordJumble\\WordJumble\\WordJumble.cpp",
+              "RelativeToolTip": "WordJumble\\WordJumble.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T14:53:30.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
