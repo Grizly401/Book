@@ -36,6 +36,6 @@
 - Windows 10/11
 - Visual Studio 2022
 
-1. Клонировать репозиторий: git clone https://github.com/ваш-репозиторий.git
+1. Клонировать репозиторий: git clone https://github.com/Grizly401/Book
 2. Открыть .sln файл в VS2022
 
